@@ -522,6 +522,11 @@ section.top_banner_bg:after {
 .section_sub_btn .btn.btn-default:hover {
   background: #d84315 none repeat scroll 0 0;
 }
+.section_btn i{
+	text-align:center;
+	width: 30px;
+	height: 30px;
+}
 
 
 /*-------- features ---------*/
