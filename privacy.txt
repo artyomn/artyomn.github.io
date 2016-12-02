@@ -1,0 +1,9 @@
+Privacy Policy
+
+WiFile never transfers your files outside your local network. Data is transferred directly between mobile device and computer. 
+Access to files on your device is needed to share them to your computer. 
+Transferring data is encrypted using AES-256 (by SSH2 protocol).
+
+For the purpose of improving application quality WiFile sends annonymous data about errors and crashes to the Google's service Firebase.
+
+If you have any questions about WiFile privacy, please contact us at support@wifile.info
